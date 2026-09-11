@@ -1,11 +1,11 @@
-# person
-first name = inpute("enter a first name")
-last name = inpute("enter a last name")
-division = input("enter a divison")
-college = inpute("enter a college")
+# personal details
+first_name = input("enter a first name: ") 
+last_name = input("enter a last name: ") 
+division = input("enter a division: ") 
+college = input("enter a college: ") 
 
-print("presonal details")
-print("first name:",first name)
-print("last name:",last name)
-print("divison:",divison)
-print("college:",college)
+print("\npersonal details") 
+print("first name:", first_name) 
+print("last name:", last_name) 
+print("division:", division) 
+print("college:", college)
